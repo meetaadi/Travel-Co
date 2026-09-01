@@ -1,0 +1,10 @@
+{
+  "name": "roamwell — travel, with context",
+  "short_name": "roamwell",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ee",
+  "theme_color": "#205a50",
+  "description": "Plan trips that fit the way you want to travel.",
+  "icons": []
+}
